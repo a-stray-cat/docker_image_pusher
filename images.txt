@@ -9,3 +9,7 @@
 xhofe/alist:latest
 zhaojun1998/zfile:latest
 fscarmen/argo-nezha
+leishi1313/aurora-admin-backend:latest
+leishi1313/aurora-admin-frontend:latest
+redis
+postgres:13-alpine
