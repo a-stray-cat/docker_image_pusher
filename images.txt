@@ -13,3 +13,4 @@ leishi1313/aurora-admin-backend:latest
 leishi1313/aurora-admin-frontend:latest
 redis
 postgres:13-alpine
+docker.io/bitnami/mongodb:6.0
