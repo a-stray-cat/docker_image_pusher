@@ -5,5 +5,9 @@
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
+#history
+#rocketchat/rocket.chat:latest
+
 #action
-rocketchat/rocket.chat:latest
+macbre/nginx-http3
+mikusa/docker-php:latest
