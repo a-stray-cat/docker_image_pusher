@@ -9,6 +9,7 @@
 #rocketchat/rocket.chat:latest
 #macbre/nginx-http3
 #mikusa/docker-php:latest
+#alpine:latest
 
 #action
-alpine:latest
+yidadaa/chatgpt-next-web
