@@ -10,6 +10,7 @@
 #macbre/nginx-http3
 #mikusa/docker-php:latest
 #alpine:latest
+#yidadaa/chatgpt-next-web
 
 #action
-yidadaa/chatgpt-next-web
+cmliu/cfnat:latest
