@@ -12,6 +12,9 @@
 #alpine:latest
 #yidadaa/chatgpt-next-web
 #cmliu/cfnat:latest
+#cloudflare/cloudflared
 
 #action
-cloudflare/cloudflared
+ppanel/ppanel-server:beta
+mysql:8.0.23
+redis:7
