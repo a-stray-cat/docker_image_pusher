@@ -18,6 +18,7 @@
 #redis:7
 #ppanel/ppanel-admin-web:latest
 #ppanel/ppanel-user-web:latest
+#mouday/domain-admin:latest
 
 #action
-mouday/domain-admin:latest
+soulteary/flare
