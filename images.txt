@@ -16,7 +16,8 @@
 #ppanel/ppanel-server:beta
 #mysql:8.0.23
 #redis:7
+#ppanel/ppanel-admin-web:latest
+#ppanel/ppanel-user-web:latest
 
 #action
-ppanel/ppanel-admin-web:latest
-ppanel/ppanel-user-web:latest
+mouday/domain-admin:latest
