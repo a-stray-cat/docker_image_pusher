@@ -19,6 +19,7 @@
 #ppanel/ppanel-admin-web:latest
 #ppanel/ppanel-user-web:latest
 #mouday/domain-admin:latest
+#soulteary/flare
 
 #action
-soulteary/flare
+snowdreamtech/frpc
