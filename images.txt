@@ -20,6 +20,7 @@
 #ppanel/ppanel-user-web:latest
 #mouday/domain-admin:latest
 #soulteary/flare
+#traceflight/frpc
 
 #action
-traceflight/frpc
+fosrl/newt
